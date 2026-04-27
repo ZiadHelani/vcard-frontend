@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "Virtual Business Cards",
+    "title": "Professional Digital Business Cards",
+    "subtitle": "Discover our collection of stunning virtual business card templates designed for every industry. Create, customize, and share your professional identity in seconds.",
+    "createCard": "Create Your Card",
+    "watchDemo": "Watch Demo",
+    "stats": {
+      "cardTemplates": "Card Templates",
+      "cardsCreated": "Cards Created",
+      "industriesCovered": "Industries Covered",
+      "mobileOptimized": "Mobile Optimized"
+    }
+  },
+  "featured": {
+    "badge": "Featured Templates",
+    "title": "Professional Templates for Every Industry",
+    "subtitle": "Explore our most popular virtual business card templates, each designed with industry-specific features and modern aesthetics.",
+    "contact": "Contact",
+    "save": "Save"
+  },
+  "templates": {
+    "items": [
+      {
+        "name": "Charity Organization",
+        "category": "Business",
+        "description": "A design crafted to represent your institution with clarity, transparency, and precision.",
+        "features": ["Portfolio Showcase", "Upcoming Conferences", "Quick Contact"]
+      },
+      {
+        "name": "Gym",
+        "category": "Creative",
+        "description": "Perfect for organizing and presenting every detail of your fitness center.",
+        "features": ["Working Hours", "Direct Call Buttons", "WhatsApp Messaging"]
+      },
+      {
+        "name": "Content Production Agency",
+        "category": "Sales",
+        "description": "All your creative portfolios gathered in one refined space.",
+        "features": ["External Links", "Pricing", "Elegant & Captivating Design"]
+      },
+      {
+        "name": "Winch / Towing Service",
+        "category": "Business",
+        "description": "A layout tailored to highlight multiple ways clients can reach you.",
+        "features": ["Pricing", "Client Testimonials", "Instant Service Request"]
+      },
+      {
+        "name": "Lawyer",
+        "category": "Business",
+        "description": "Specifically designed for cassation lawyers, clearly presenting your legal specialty.",
+        "features": ["Appointment Booking", "Direct Numbers", "Inquiries & Consultations"]
+      },
+      {
+        "name": "Travel Agency",
+        "category": "Food & Beverage",
+        "description": "Ideal for companies with a broad client base and diverse services.",
+        "features": ["Appointment Scheduling", "External Links", "Pricing"]
+      }
+    ]
+  },
+  "video": {
+    "badge": "Watch Demo",
+    "title": "See ULTRA TECH in Action",
+    "subtitle": "Watch how easy it is to create, customize, and share your professional virtual business card in under 2 minutes.",
+    "demoTitle": "Virtual Business Cards Demo",
+    "demoSubtitle": "Learn how to create stunning digital cards in minutes"
+  },
+  "allTemplates": {
+    "badge": "All Templates",
+    "title": "Choose Your Perfect Template",
+    "subtitle": "Browse our complete collection of professional virtual business card templates designed for various industries and use cases.",
+    "contact": "Contact"
+  },
+  "features": {
+    "badge": "Card Features",
+    "title": "Why Choose Virtual Business Cards?",
+    "subtitle": "Discover the powerful features that make our virtual business cards the perfect choice for modern professionals.",
+    "items": [
+      {
+        "title": "Instant Sharing",
+        "description": "Share your card via QR code, link, email, or NFC. No app required for recipients."
+      },
+      {
+        "title": "Real-time Updates",
+        "description": "Update your information anytime and all shared cards automatically reflect changes."
+      },
+      {
+        "title": "Analytics & Insights",
+        "description": "Track views, clicks, and contact saves with detailed analytics dashboard."
+      },
+      {
+        "title": "Custom Branding",
+        "description": "Add your logo, brand colors, and custom design elements to match your identity."
+      },
+      {
+        "title": "Contact Integration",
+        "description": "One-click contact saving to phone contacts, calendar, and CRM systems."
+      },
+      {
+        "title": "Eco-Friendly",
+        "description": "Go paperless and reduce environmental impact while maintaining professionalism."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to create your virtual business card?",
+    "subtitle": "Join thousands of professionals who have already made the switch to digital networking. Create your first card in under 2 minutes.",
+    "startCreating": "Start Creating Free",
+    "viewTemplates": "View All Templates"
+  },
+  "preview": {
+    "keepInContacts": "Keep me in the contacts",
+    "aboutMeTitle": "A little about me",
+    "customersRecommend": "Customers recommend",
+    "leaveDetails": "Leave your details and I'll get back to you",
+    "shareCard": "Share my card with friends",
+    "poweredBy": "Powered By"
+  }
+}

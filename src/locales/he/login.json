@@ -1,0 +1,48 @@
+{
+  "backToHome": "חזרה לדף הבית",
+  "branding": {
+    "name": "אולטרא טק",
+    "tagline": "כרטיסי ביקור דיגיטליים מקצועיים"
+  },
+  "hero": {
+    "title": "ברוכים השבים לעתיד של",
+    "titleHighlight": "רישות",
+    "subtitle": "המשך לבנות חיבורים מדהימים עם כרטיסי הביקור הדיגיטליים המקצועיים שלך. הרשת שלך מחכה."
+  },
+  "features": {
+    "smartDesign": {
+      "title": "עיצוב חכם",
+      "description": "פריסות מבוססות בינה מלאכותית שמסתגלות לתוכן שלך"
+    },
+    "instantSharing": {
+      "title": "שיתוף מיידי",
+      "description": "קודי QR, קישורים ושמירת אנשי קשר ישירה"
+    }
+  },
+  "form": {
+    "title": "ברוכים השבים",
+    "subtitle": "היכנס לחשבון שלך כדי להמשיך לבנות כרטיסי ביקור דיגיטליים מדהימים",
+    "email": {
+      "label": "אימייל",
+      "placeholder": "הזן את האימייל שלך"
+    },
+    "password": {
+      "label": "סיסמה",
+      "placeholder": "הזן את הסיסמה שלך"
+    },
+    "rememberMe": "זכור אותי",
+    "forgetPassword": "שכחת סיסמה?",
+    "signIn": "התחבר",
+    "signingIn": "מתחבר...",
+    "orContinueWith": "או המשך עם",
+    "google": "גוגל",
+    "noAccount": "אין לך חשבון?",
+    "signUpFree": "הירשם בחינם"
+  },
+  "validation": {
+    "emailRequired": "אימייל הוא שדה חובה",
+    "emailInvalid": "נא להזין כתובת אימייל תקינה",
+    "passwordRequired": "סיסמה היא שדה חובה",
+    "passwordMin": "הסיסמה חייבת להכיל לפחות 6 תווים"
+  }
+}

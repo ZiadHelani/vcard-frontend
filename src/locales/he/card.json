@@ -1,0 +1,94 @@
+{
+  "builder": {
+    "title": "בונה כרטיסים",
+    "personalDetails": "פרטים אישיים",
+    "cardDetails": "פרטי כרטיס",
+    "socialLinks": "קישורי מדיה חברתית",
+    "contactInfo": "פרטי קשר",
+    "gallery": "גלריה",
+    "faqs": "שאלות נפוצות",
+    "services": "שירותים",
+    "testimonials": "המלצות",
+    "businessHours": "שעות פעילות",
+    "save": "שמור כרטיס",
+    "preview": "תצוגה מקדימה",
+    "publish": "פרסם",
+    "draft": "שמור כטיוטה"
+  },
+  "fields": {
+    "firstName": "שם פרטי",
+    "lastName": "שם משפחה",
+    "fullName": "שם מלא",
+    "jobTitle": "תפקיד",
+    "company": "חברה",
+    "bio": "ביוגרפיה קצרה",
+    "about": "אודות",
+    "conclusion": "סיכום",
+    "email": "אימייל",
+    "phone": "מספר טלפון",
+    "website": "אתר אינטרנט",
+    "address": "כתובת",
+    "coverImage": "תמונת כיסוי",
+    "profileImage": "תמונת פרופיל",
+    "backgroundImage": "תמונת רקע",
+    "backgroundColor": "צבע רקע",
+    "textColor": "צבע טקסט",
+    "buttonColor": "צבע כפתור",
+    "logo": "לוגו",
+    "theme": "ערכת נושא"
+  },
+  "social": {
+    "facebook": "פייסבוק",
+    "twitter": "טוויטר",
+    "linkedin": "לינקדאין",
+    "instagram": "אינסטגרם",
+    "youtube": "יוטיוב",
+    "tiktok": "טיקטוק",
+    "github": "גיטהאב",
+    "behance": "ביהאנס",
+    "dribbble": "דריבל",
+    "pinterest": "פינטרסט"
+  },
+  "gallery": {
+    "title": "גלריה",
+    "addImage": "הוסף תמונה",
+    "removeImage": "הסר תמונה",
+    "caption": "כיתוב",
+    "noImages": "לא נוספו תמונות"
+  },
+  "faqs": {
+    "title": "שאלות נפוצות",
+    "addFaq": "הוסף שאלה",
+    "question": "שאלה",
+    "answer": "תשובה",
+    "noFaqs": "לא נוספו שאלות"
+  },
+  "services": {
+    "title": "שירותים",
+    "addService": "הוסף שירות",
+    "name": "שם השירות",
+    "description": "תיאור",
+    "price": "מחיר",
+    "noServices": "לא נוספו שירותים"
+  },
+  "preview": {
+    "title": "תצוגה מקדימה של הכרטיס",
+    "mobile": "תצוגת נייד",
+    "desktop": "תצוגת מחשב",
+    "share": "שתף כרטיס",
+    "saveContact": "שמור לאנשי קשר",
+    "downloadVCard": "הורד כרטיס"
+  },
+  "messages": {
+    "saveSuccess": "הכרטיס נשמר בהצלחה",
+    "saveError": "שמירת הכרטיס נכשלה",
+    "publishSuccess": "הכרטיס פורסם בהצלחה",
+    "publishError": "פרסום הכרטיס נכשל",
+    "deleteSuccess": "הכרטיס נמחק בהצלחה",
+    "deleteError": "מחיקת הכרטיס נכשלה",
+    "fieldRequired": "שדה זה הוא חובה",
+    "invalidEmail": "כתובת אימייל לא תקינה",
+    "invalidPhone": "מספר טלפון לא תקין",
+    "invalidUrl": "כתובת URL לא תקינה"
+  }
+}

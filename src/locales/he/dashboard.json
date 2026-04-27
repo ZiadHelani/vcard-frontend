@@ -1,0 +1,452 @@
+{
+  "header": {
+    "searchPlaceholder": "חפש כרטיסים, אנשי קשר או ניתוחים...",
+    "notifications": "התראות",
+    "markAllRead": "סמן הכל כנקרא",
+    "noNotifications": "אין התראות חדשות",
+    "viewAllNotifications": "הצג את כל ההתראות",
+    "myProfile": "הפרופיל שלי",
+    "upgradePremium": "שדרג לפרימיום",
+    "signOut": "התנתק"
+  },
+  "sidebar": {
+    "tagline": "כרטיסי ביקור דיגיטליים",
+    "adminPanel": "פאנל ניהול",
+    "signOut": "התנתק",
+    "menu": {
+      "dashboard": "לוח בקרה",
+      "cardBuilder": "בונה כרטיסים",
+      "cards": "כרטיסים",
+      "contacts": "אנשי קשר",
+      "billing": "חיוב",
+      "support": "תמיכה",
+      "usersManagement": "ניהול משתמשים",
+      "subscriptions": "מנויים"
+    },
+    "subtitle": {
+      "dashboard": "סקירה וסטטיסטיקות",
+      "cardBuilder": "צור וערוך כרטיסים",
+      "cards": "כל הכרטיסים שלך",
+      "contacts": "נהל קשרים",
+      "billing": "תוכניות וחשבוניות",
+      "support": "עזרה ומשאבים",
+      "usersManagement": "נהל את כל המשתמשים",
+      "subscriptions": "נהל מנויים"
+    }
+  },
+  "menu": {
+    "dashboard": "לוח בקרה",
+    "cardBuilder": "בונה כרטיסים",
+    "myCards": "הכרטיסים שלי",
+    "contacts": "אנשי קשר",
+    "billing": "חיוב",
+    "support": "תמיכה",
+    "profile": "פרופיל",
+    "admin": "פאנל ניהול",
+    "users": "משתמשים",
+    "subscriptions": "מנויים"
+  },
+  "overview": {
+    "title": "סקירת לוח הבקרה",
+    "totalCards": "סה\"כ כרטיסים",
+    "totalViews": "סה\"כ צפיות",
+    "totalContacts": "סה\"כ אנשי קשר",
+    "activeCards": "כרטיסים פעילים",
+    "shares": "שיתופים",
+    "welcomeBack": "ברוך שובך, {name}",
+    "subtitle": "הנה מה שקורה היום עם כרטיסי הביקור הדיגיטליים שלך.",
+    "cardsDelta": "+2 החודש",
+    "viewsDelta": "+12% מהחודש שעבר",
+    "contactsDelta": "+8% מהחודש שעבר",
+    "sharesDelta": "+23% מהחודש שעבר"
+  },
+  "cards": {
+    "title": "הכרטיסים שלי",
+    "subtitle": "עיין ונהל את הכרטיסים הדיגיטליים שלך",
+    "create": "צור כרטיס חדש",
+    "new": "כרטיס חדש",
+    "export": "ייצוא",
+    "all": "כל הכרטיסים",
+    "searchPlaceholder": "חפש כרטיסים...",
+    "filters": "מסננים",
+    "loading": "טוען כרטיסים...",
+    "published": "פורסם",
+    "headers": {
+      "qrCode": "קוד QR",
+      "card": "כרטיס",
+      "type": "סוג",
+      "stats": "סטטיסטיקות",
+      "published": "פורסם",
+      "created": "נוצר",
+      "actions": "פעולות"
+    },
+    "edit": "ערוך כרטיס",
+    "delete": "מחק כרטיס",
+    "view": "הצג כרטיס",
+    "share": "שתף כרטיס",
+    "duplicate": "שכפל כרטיס",
+    "noCards": "לא נמצאו כרטיסים",
+    "deleteConfirm": "האם אתה בטוח שברצונך למחוק כרטיס זה?",
+    "deleteDialog": {
+      "title": "מחיקת כרטיס",
+      "body": "האם אתה בטוח שברצונך למחוק כרטיס זה? לא ניתן לבטל פעולה זו.",
+      "cancel": "ביטול",
+      "confirm": "מחק"
+    },
+    "deleteSuccess": "הכרטיס נמחק בהצלחה",
+    "createSuccess": "הכרטיס נוצר בהצלחה",
+    "updateSuccess": "הכרטיס עודכן בהצלחה",
+    "published": "פורסם",
+    "unpublished": "לא פורסם",
+    "draft": "טיוטה"
+  },
+  "contacts": {
+    "title": "אנשי קשר",
+    "pageTitle": "ניהול אנשי קשר",
+    "pageSubtitle": "נהל את הקשרים המקצועיים והלידים שלך",
+    "add": "הוסף איש קשר",
+    "import": "ייבוא",
+    "manage": "נהל אנשי קשר",
+    "total": "סה\"כ אנשי קשר",
+    "newThisWeek": "חדשים השבוע",
+    "active": "אנשי קשר פעילים",
+    "conversion": "שיעור המרות",
+    "deltas": {
+      "total": "+15%",
+      "newThisWeek": "+8%",
+      "active": "+12%",
+      "conversion": "+3%"
+    },
+    "recent": "אנשי קשר אחרונים",
+    "export": "ייצא אנשי קשר",
+    "delete": "מחק איש קשר",
+    "noContacts": "לא נמצאו אנשי קשר",
+    "deleteConfirm": "האם אתה בטוח שברצונך למחוק איש קשר זה?",
+    "table": {
+      "all": "כל אנשי הקשר",
+      "searchPlaceholder": "חפש אנשי קשר...",
+      "filters": "מסננים",
+      "allSources": "כל המקורות",
+      "loading": "טוען אנשי קשר...",
+      "headers": {
+        "contact": "איש קשר",
+        "company": "חברה",
+        "status": "סטטוס",
+        "tags": "תגיות",
+        "lastContact": "יצירת קשר אחרונה",
+        "actions": "פעולות"
+      },
+      "tagDefault": "איש קשר",
+      "na": "לא זמין"
+    },
+    "deleteSuccess": "איש הקשר נמחק בהצלחה",
+    "addDrawer": {
+      "title": "הוסף איש קשר חדש",
+      "subtitle": "צור איש קשר עם כתובות אימייל ומספרי טלפון",
+      "profileImage": "תמונת פרופיל (אופציונלי)",
+      "companyLogo": "לוגו חברה (אופציונלי)",
+      "upload": "העלה",
+      "change": "שנה",
+      "remove": "הסר",
+      "fullName": "שם מלא",
+      "company": "חברה (אופציונלי)",
+      "department": "מחלקה (אופציונלי)",
+      "active": "פעיל",
+      "inactive": "לא פעיל",
+      "associatedCard": "כרטיס משויך (אופציונלי)",
+      "emails": "אימיילים",
+      "addEmail": "הוסף אימייל",
+      "email": "אימייל",
+      "label": "תווית (אופציונלי)",
+      "phones": "טלפונים",
+      "addPhone": "הוסף טלפון",
+      "phone": "טלפון",
+      "ext": "שלוחה (אופציונלי)",
+      "save": "שמור איש קשר",
+      "cancel": "ביטול"
+    }
+  },
+  "billing": {
+    "title": "חיוב ומנוי",
+    "subtitle": "נהל את המנוי והעדפות החיוב שלך",
+    "currentPlan": "תוכנית נוכחית",
+    "upgrade": "שדרג תוכנית",
+    "invoices": "חשבוניות",
+    "recentInvoices": "חשבוניות אחרונות",
+    "paymentMethod": "אמצעי תשלום",
+    "billingHistory": "היסטוריית חיוב",
+    "badges": {
+      "mostPopular": "הכי פופולרי"
+    },
+    "plans": {
+      "free": {
+        "name": "חינם",
+        "price": "$0",
+        "per": "/לחודש",
+        "desc": "מושלם להתחלה",
+        "features": {
+          "cards": "3 כרטיסי ביקור",
+          "templates": "תבניות בסיסיות",
+          "qrcode": "יצירת קוד QR",
+          "analytics": "ניתוח בסיסי"
+        },
+        "button": "תוכנית נוכחית"
+      },
+      "pro": {
+        "name": "פרו",
+        "price": "$9",
+        "per": "/לחודש",
+        "desc": "לאנשי מקצוע בצמיחה",
+        "features": {
+          "unlimitedCards": "כרטיסי ביקור ללא הגבלה",
+          "premiumTemplates": "תבניות פרימיום",
+          "advancedAnalytics": "ניתוח מתקדם",
+          "customBranding": "מיתוג מותאם אישית",
+          "teamCollaboration": "שיתוף פעולה בצוות"
+        },
+        "button": "שדרג לפרו"
+      },
+      "business": {
+        "name": "ביזנס",
+        "price": "$29",
+        "per": "/לחודש",
+        "desc": "לצוותים ולארגונים",
+        "features": {
+          "everythingInPro": "כל מה שיש בפרו",
+          "advancedTeam": "יכולות צוות מתקדמות",
+          "apiAccess": "גישה ל-API",
+          "integrations": "אינטגרציות מותאמות",
+          "prioritySupport": "תמיכה בעדיפות"
+        },
+        "button": "צור קשר עם מכירות"
+      }
+    },
+    "invoicesList": {
+      "title": "חשבוניות אחרונות",
+      "paid": "שולם"
+    },
+    "payment": {
+      "title": "אמצעי תשלום",
+      "expires": "פג בתאריך {date}",
+      "edit": "ערוך",
+      "add": "הוסף אמצעי תשלום"
+    }
+  },
+  "support": {
+    "title": "עזרה ותמיכה",
+    "subtitle": "קבל עזרה ומצא תשובות לשאלות נפוצות",
+    "knowledgeBase": {
+      "title": "מאגר הידע",
+      "articles": [
+        "איך ליצור כרטיס ביקור ראשון?",
+        "האם ניתן להתאים צבעים וגופנים?",
+        "איך משתפים את כרטיס הביקור?",
+        "אילו ניתוחים זמינים?",
+        "איך מייצאים פרטי איש קשר?"
+      ]
+    },
+    "contact": {
+      "title": "צור קשר עם התמיכה",
+      "successTitle": "ההודעה נשלחה בהצלחה!",
+      "successBody": "קיבלנו את בקשתך ונחזור אליך בהקדם.",
+      "subjectLabel": "נושא",
+      "subjectPlaceholder": "איך נוכל לעזור?",
+      "messageLabel": "הודעה",
+      "messagePlaceholder": "תאר/י את הבעיה או השאלה שלך...",
+      "send": "שלח הודעה",
+      "clear": "נקה",
+      "sendAnother": "שלח הודעה נוספת"
+    },
+    "sendMessage": "שלח הודעה",
+    "subject": "נושא",
+    "message": "הודעה",
+    "submit": "שלח הודעה",
+    "success": "ההודעה נשלחה בהצלחה",
+    "error": "שליחת ההודעה נכשלה"
+  },
+  "profile": {
+    "title": "הגדרות פרופיל",
+    "personalInfo": "מידע אישי",
+    "changePassword": "שנה סיסמה",
+    "updateSuccess": "הפרופיל עודכן בהצלחה",
+    "updateError": "עדכון הפרופיל נכשל"
+  },
+  "account": {
+    "title": "חשבון",
+    "subtitle": "ניהול ההגדרות האישיות שלך",
+    "photoLabel": "תמונת חשבון",
+    "nameLabel": "שם",
+    "namePlaceholder": "הזן את שמך",
+    "emailLabel": "אימייל",
+    "emailReadonlyNote": "שינוי אימייל דורש תמיכה. אנא פנה לתמיכה כדי לעדכן את האימייל שלך.",
+    "saveChanges": "שמור שינויים",
+    "reset": "אפס",
+    "resetPassword": "איפוס סיסמה",
+    "dialog": {
+      "changePassword": "שינוי סיסמה",
+      "newPassword": "סיסמה חדשה",
+      "confirmPassword": "אישור סיסמה",
+      "cancel": "ביטול",
+      "updatePassword": "עדכן סיסמה"
+    }
+  },
+  "builder": {
+    "proMode": "מצב פרו",
+    "freeMode": "מצב חינם",
+    "subscribeNow": "הירשם עכשיו",
+    "title": "בונה כרטיסים",
+    "subtitle": "התאם אישית את כרטיס הביקור הדיגיטלי שלך",
+    "saveAria": "שמור",
+    "validation": {
+      "title": "שדות חובה חסרים",
+      "cardName": "• שם הכרטיס נדרש",
+      "cardType": "• סוג הכרטיס נדרש",
+      "personalName": "• שם אישי נדרש",
+      "phone": "• נדרש מספר טלפון"
+    },
+    "tabs": {
+      "cardDetails": "פרטי הכרטיס",
+      "personalDetails": "פרטים אישיים",
+      "buttons": "כפתורים",
+      "faqs": "שאלות נפוצות",
+      "gallery": "גלריה",
+      "reviews": "ביקורות"
+    },
+    "preview": {
+      "title": "תצוגה חיה",
+      "mobile": "נייד",
+      "desktop": "מחשב"
+    },
+    "forms": {
+      "cardDetails": {
+        "qrCodeLabel": "לוגו קוד QR",
+        "nameLabel": "שם הכרטיס",
+        "namePlaceholder": "הזן שם כרטיס",
+        "published": "פורסם",
+        "typeLabel": "סוג הכרטיס",
+        "types": {
+          "personal": "אישי",
+          "business": "עסקי"
+        },
+        "bgColorLabel": "צבע רקע הכרטיס",
+        "contactButtonColor": "צבע כפתור יצירת קשר",
+        "qrLabel": "לוגו קוד QR (אופציונלי)",
+        "qrPreview": "תצוגה מקדימה של לוגו QR",
+        "validation": {
+          "nameRequired": "שם הכרטיס נדרש",
+          "nameEmpty": "שם הכרטיס לא יכול להיות ריק",
+          "typeRequired": "סוג הכרטיס נדרש"
+        }
+      },
+      "buttons": {
+        "empty": {
+          "title": "אין כפתורים עדיין",
+          "subtitle": "הוסף כפתורים אינטראקטיביים לכרטיס שלך עבור קישורים, פרטי יצירת קשר ועוד."
+        },
+        "defaultTitle": "כפתור {n}",
+        "defaultLink": "לא הוגדר קישור",
+        "titleLabel": "כותרת הכפתור",
+        "titlePlaceholder": "לדוגמה: אימייל, אתר, התקשר",
+        "iconLabel": "אייקון",
+        "iconSearchPlaceholder": "חפש אייקונים…",
+        "linkLabel": "קישור/URL",
+        "linkPlaceholder": "https://example.com או tel:+1234567890",
+        "colorLabel": "צבע הכפתור",
+        "fontFamilyLabel": "גופן",
+        "fontFamilies": {
+          "roboto": "Roboto (ברירת מחדל)"
+        },
+        "fontSizeLabel": "גודל גופן",
+        "fontSizes": {
+          "xs": "10px (קטן מאוד)",
+          "sm": "12px (קטן)",
+          "default": "14px (ברירת מחדל)",
+          "md": "16px (בינוני)",
+          "lg": "18px (גדול)",
+          "xl": "20px (גדול מאוד)",
+          "xxl": "22px (XXL)",
+          "xxxl": "24px (XXXL)"
+        },
+        "addNew": "הוסף כפתור חדש"
+      },
+      "faqs": {
+        "empty": {
+          "title": "אין שאלות נפוצות עדיין",
+          "subtitle": "הוסף שאלות נפוצות כדי לעזור למבקרים ללמוד עליך יותר."
+        },
+        "defaultQuestion": "שאלה {n}",
+        "questionLabel": "שאלה",
+        "questionPlaceholder": "איזו שאלה אנשים שואלים לעתים קרובות?",
+        "answerLabel": "תשובה",
+        "answerPlaceholder": "ספק תשובה ברורה ומועילה...",
+        "bgColorLabel": "צבע רקע",
+        "addNew": "הוסף שאלה נפוצה חדשה"
+      },
+      "gallery": {
+        "title": "ניהול גלריה",
+        "subtitle": "הוסף וארגן תמונות לגלריה שלך. ציין מימדי רשת לכל תמונה.",
+        "addNewTitle": "הוסף תמונה חדשה",
+        "selectImageLabel": "בחר קובץ תמונה",
+        "gridColumnsLabel": "עמודות רשת",
+        "gridRowsLabel": "שורות רשת",
+        "addImageButton": "הוסף תמונה",
+        "currentGalleryTitle": "גלריה נוכחית ({count} תמונות)",
+        "empty": {
+          "title": "אין תמונות בגלריה עדיין",
+          "subtitle": "הוסף את התמונה הראשונה שלך למעלה"
+        },
+        "gridLabel": "רשת",
+        "column": "עמודה",
+        "row": "שורה",
+        "imageUrlLabel": "כתובת URL או נתיב תמונה",
+        "columnsLabel": "עמודות",
+        "rowsLabel": "שורות",
+        "cancelButton": "ביטול",
+        "saveButton": "שמור",
+        "previewTitle": "תצוגה מקדימה של הגלריה",
+        "validation": {
+          "fileRequired": "קובץ תמונה נדרש",
+          "fileSize": "גודל התמונה צריך להיות פחות מ-5 MB",
+          "fileType": "רק תמונות JPEG, PNG ו-WebP מותרות",
+          "colsRange": "עמודות חייבות להיות בין 1 ל-4",
+          "rowsRange": "שורות חייבות להיות בין 1 ל-3"
+        }
+      },
+      "reviews": {
+        "empty": {
+          "title": "אין ביקורות עדיין",
+          "subtitle": "הוסף ביקורות לקוחות והמלצות כדי לבנות אמון ואמינות."
+        },
+        "defaultCustomer": "לקוח {n}",
+        "noReviewText": "לא סופק טקסט ביקורת",
+        "customerNameLabel": "שם הלקוח",
+        "customerNamePlaceholder": "לדוגמה: יוחנן כהן, שרה מ., וכו'.",
+        "ratingLabel": "דירוג",
+        "ratingText": "{rating} מתוך 5 כוכבים",
+        "reviewTextLabel": "טקסט הביקורת",
+        "reviewTextPlaceholder": "כתוב מה הלקוח אמר על השירות שלך...",
+        "addNew": "הוסף ביקורת חדשה"
+      },
+      "personalDetails": {
+        "coverLabel": "תמונת כיסוי",
+        "profileLabel": "תמונת פרופיל",
+        "backgroundLabel": "תמונת רקע (אופציונלי)",
+        "contactDetailsBackgroundLabel": "רקע פרטי יצירת קשר (אופציונלי)",
+        "fullNameLabel": "שם מלא",
+        "fullNamePlaceholder": "הזן שם מלא",
+        "phoneLabel": "טלפון",
+        "phonePlaceholder": "הזן מספר טלפון",
+        "bioLabel": "ביוגרפיה",
+        "bioPlaceholder": "כתוב/י ביוגרפיה קצרה על עצמך...",
+        "aboutLabel": "אודות",
+        "aboutPlaceholder": "ספר/י עוד על עצמך, הניסיון וההתמחות...",
+        "conclusionLabel": "סיכום",
+        "conclusionPlaceholder": "סכם/י עם קריאה לפעולה או הצהרת סיום...",
+        "validation": {
+          "nameRequired": "שם אישי הוא שדה חובה",
+          "nameEmpty": "שם אישי לא יכול להיות ריק"
+        }
+      }
+    }
+  }
+}

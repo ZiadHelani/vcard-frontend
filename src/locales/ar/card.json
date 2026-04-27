@@ -1,0 +1,94 @@
+{
+  "builder": {
+    "title": "منشئ البطاقات",
+    "personalDetails": "البيانات الشخصية",
+    "cardDetails": "تفاصيل البطاقة",
+    "socialLinks": "روابط التواصل الاجتماعي",
+    "contactInfo": "معلومات الاتصال",
+    "gallery": "المعرض",
+    "faqs": "الأسئلة الشائعة",
+    "services": "الخدمات",
+    "testimonials": "الشهادات",
+    "businessHours": "ساعات العمل",
+    "save": "حفظ البطاقة",
+    "preview": "معاينة",
+    "publish": "نشر",
+    "draft": "حفظ كمسودة"
+  },
+  "fields": {
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "fullName": "الاسم الكامل",
+    "jobTitle": "المسمى الوظيفي",
+    "company": "الشركة",
+    "bio": "نبذة مختصرة",
+    "about": "عني",
+    "conclusion": "الخاتمة",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "website": "الموقع الإلكتروني",
+    "address": "العنوان",
+    "coverImage": "صورة الغلاف",
+    "profileImage": "الصورة الشخصية",
+    "backgroundImage": "صورة الخلفية",
+    "backgroundColor": "لون الخلفية",
+    "textColor": "لون النص",
+    "buttonColor": "لون الزر",
+    "logo": "الشعار",
+    "theme": "المظهر"
+  },
+  "social": {
+    "facebook": "فيسبوك",
+    "twitter": "تويتر",
+    "linkedin": "لينكد إن",
+    "instagram": "إنستغرام",
+    "youtube": "يوتيوب",
+    "tiktok": "تيك توك",
+    "github": "جيت هاب",
+    "behance": "بيهانس",
+    "dribbble": "دريبل",
+    "pinterest": "بينترست"
+  },
+  "gallery": {
+    "title": "المعرض",
+    "addImage": "إضافة صورة",
+    "removeImage": "حذف الصورة",
+    "caption": "التعليق",
+    "noImages": "لا توجد صور"
+  },
+  "faqs": {
+    "title": "الأسئلة الشائعة",
+    "addFaq": "إضافة سؤال",
+    "question": "السؤال",
+    "answer": "الإجابة",
+    "noFaqs": "لا توجد أسئلة"
+  },
+  "services": {
+    "title": "الخدمات",
+    "addService": "إضافة خدمة",
+    "name": "اسم الخدمة",
+    "description": "الوصف",
+    "price": "السعر",
+    "noServices": "لا توجد خدمات"
+  },
+  "preview": {
+    "title": "معاينة البطاقة",
+    "mobile": "عرض الهاتف",
+    "desktop": "عرض الحاسوب",
+    "share": "مشاركة البطاقة",
+    "saveContact": "حفظ جهة الاتصال",
+    "downloadVCard": "تحميل البطاقة"
+  },
+  "messages": {
+    "saveSuccess": "تم حفظ البطاقة بنجاح",
+    "saveError": "فشل حفظ البطاقة",
+    "publishSuccess": "تم نشر البطاقة بنجاح",
+    "publishError": "فشل نشر البطاقة",
+    "deleteSuccess": "تم حذف البطاقة بنجاح",
+    "deleteError": "فشل حذف البطاقة",
+    "fieldRequired": "هذا الحقل مطلوب",
+    "invalidEmail": "البريد الإلكتروني غير صحيح",
+    "invalidPhone": "رقم الهاتف غير صحيح",
+    "invalidUrl": "الرابط غير صحيح"
+  }
+}

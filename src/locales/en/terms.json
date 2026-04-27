@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Terms of Use",
+    "website": "Website: www.ultratech.co.il",
+    "subtitle": "Effective: From the moment of use"
+  },
+  "sections": {
+    "introduction": {
+      "title": "1. Introduction",
+      "content": [
+        "The UltraTech website (\"the Site\") is a platform that allows users to purchase, create, and upload digital business cards.",
+        "Use of the Site is subject to acceptance of these Terms of Use and the Privacy Policy published on the Site.",
+        "Any use of the Site constitutes an irrevocable agreement by the user to these terms.",
+        "The Site is intended for users 18 years and older only. Use by minors is prohibited."
+      ]
+    },
+    "definitions": {
+      "title": "2. Definitions",
+      "content": [
+        "\"User\": Any person who browses or uses the Site.",
+        "\"User Content\": Any information, image, logo, file, or other content uploaded by the user on the Site as part of a digital business card.",
+        "\"Service\": The platform that provides digital business cards and any related services on the Site."
+      ]
+    },
+    "registration": {
+      "title": "3. Registration and Use",
+      "content": [
+        "The user agrees to provide accurate, complete, and up-to-date information when registering or uploading a digital business card.",
+        "The user is responsible for maintaining the confidentiality of their account credentials. The Site is not responsible for unauthorized use of the account by third parties.",
+        "The user agrees not to upload offensive, illegal, copyrighted, or privacy-infringing content, or any content that may harm others or the Site."
+      ]
+    },
+    "payment": {
+      "title": "4. Purchase and Payment",
+      "content": [
+        "Digital business card purchases are made via secure payment providers only (credit card, PayPal, etc.).",
+        "The Site does not store users’ credit card or other payment information.",
+        "The Site may change prices, offers, or services at its discretion.",
+        "All transactions are subject to product availability and the payment terms displayed on the Site."
+      ]
+    },
+    "userContent": {
+      "title": "5. User Content",
+      "content": [
+        "Users are fully responsible for the content they upload and represent that it does not infringe on third-party rights, laws, or privacy.",
+        "Users grant the Site a non-exclusive, royalty-free license to use the content solely for providing the Service.",
+        "The Site may remove any content that violates the terms, law, or third-party rights at any time without prior notice."
+      ]
+    },
+    "copyright": {
+      "title": "6. Copyright",
+      "content": [
+        "All content on the Site that is not User Content, including designs, logos, code, and graphics, is protected by copyright and owned by the Site or authorized parties.",
+        "Copying, distributing, or using Site content without written permission from the Site owners is prohibited."
+      ]
+    },
+    "security": {
+      "title": "7. Data Security and Cookies",
+      "content": [
+        "The Site takes reasonable security measures, including encryption, to protect personal information.",
+        "The Site collects minimal information:",
+        "Email address for service and support purposes",
+        "Information submitted by the user in the digital business card",
+        "Site usage information via cookies and analytics systems to improve user experience",
+        "Users may disable cookies via browser settings, but some Site features may not function properly."
+      ]
+    },
+    "liability": {
+      "title": "8. Limitation of Liability",
+      "content": [
+        "The Site is provided 'as is' and does not guarantee continuous availability or error-free service.",
+        "The Site is not responsible for any direct, indirect, incidental, or consequential damages arising from the use of the Site or User Content.",
+        "The Site is not responsible for damages resulting from system failure, downtime, or technical errors."
+      ]
+    },
+    "contact": {
+      "title": "9. Contact and Support",
+      "content": [
+        "Users may contact the Site team for questions or issues at: info@ultratech.co.il",
+        "The Site will respond to inquiries within a reasonable timeframe."
+      ]
+    },
+    "changes": {
+      "title": "10. Changes to Terms or Policy",
+      "content": [
+        "The Site may update the Terms of Use or Privacy Policy from time to time.",
+        "All changes will be published on the Site, and continued use constitutes acceptance of the updated terms."
+      ]
+    },
+    "law": {
+      "title": "11. Governing Law and Jurisdiction",
+      "content": [
+        "These Terms and Privacy Policy are governed by the laws of the State of Israel.",
+        "Any dispute will be subject to the competent courts in Tel Aviv, Israel."
+      ]
+    }
+  }
+}

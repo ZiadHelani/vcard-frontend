@@ -1,0 +1,17 @@
+{
+  "required": "{field} הוא שדה חובה",
+  "email": "אנא הזן כתובת אימייל תקינה",
+  "min": "{field} חייב להכיל לפחות {min} תווים",
+  "max": "{field} לא יכול לעבור {max} תווים",
+  "minValue": "{field} חייב להיות לפחות {min}",
+  "maxValue": "{field} לא יכול לעבור {max}",
+  "numeric": "{field} חייב להיות מספר",
+  "alpha": "{field} חייב להכיל אותיות בלבד",
+  "alphaNum": "{field} חייב להכיל אותיות ומספרים בלבד",
+  "url": "אנא הזן כתובת URL תקינה",
+  "match": "{field} אינו תואם",
+  "unique": "{field} כבר קיים",
+  "invalid": "{field} לא תקין",
+  "passwordMismatch": "הסיסמאות אינן תואמות",
+  "passwordStrength": "הסיסמה חייבת להכיל לפחות 8 תווים, אות גדולה, אות קטנה ומספר"
+}

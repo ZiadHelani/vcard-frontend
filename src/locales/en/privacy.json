@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "title": "Privacy Policy – UltraTech",
+    "website": "Website: www.ultratech.co.il",
+    "effective": "Effective: From the moment of use"
+  },
+  "sections": {
+    "collection": {
+      "title": "1. Information Collection",
+      "items": [
+        "The Site collects minimal information only:",
+        "Email address for service and support purposes",
+        "Information submitted by the user in the digital business card",
+        "Site usage information via cookies and analytics systems (e.g., Google Analytics)",
+        "The Site does not collect any additional information without the user’s consent."
+      ]
+    },
+    "usage": {
+      "title": "2. Use of Information",
+      "items": [
+        "Collected information is used solely to provide services, support the user, and improve user experience.",
+        "The Site will not sell, rent, or share personal information with third parties without explicit consent, except as required by law."
+      ]
+    },
+    "storage": {
+      "title": "3. Data Storage and Security",
+      "items": [
+        "The Site takes reasonable security measures, including encryption, to protect personal information.",
+        "Information is retained as long as the account is active or as required by law."
+      ]
+    },
+    "rights": {
+      "title": "4. User Rights",
+      "items": [
+        "Users may contact info@ultratech.co.il to:",
+        "Access their personal information",
+        "Correct inaccurate information",
+        "Delete personal information",
+        "The Site will respond to such requests in accordance with Israeli privacy laws."
+      ]
+    },
+    "age": {
+      "title": "5. Age Restriction",
+      "items": [
+        "The Site is intended for users 18 years and older only.",
+        "Minors are not allowed to use the Site."
+      ]
+    },
+    "changes": {
+      "title": "6. Policy Changes",
+      "items": [
+        "The Site may update the Privacy Policy from time to time.",
+        "Changes will be published on the Site, and continued use constitutes acceptance of the updated policy."
+      ]
+    },
+    "law": {
+      "title": "7. Governing Law and Jurisdiction",
+      "items": [
+        "The Privacy Policy is governed by the laws of the State of Israel.",
+        "Any dispute will be subject to the competent courts in Tel Aviv, Israel."
+      ]
+    }
+  }
+}

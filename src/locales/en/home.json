@@ -1,0 +1,197 @@
+{
+  "hero": {
+    "badge": "Trusted by 50,000+ professionals worldwide",
+    "headline": "Create <span class='gradient-title'>Stunning</span> Digital Business Cards in Minutes",
+    "subheadline": "Join the digital networking revolution. Build professional, interactive business cards that make lasting impressions and drive real connections.",
+    "startFree": "Start Building Free",
+    "watchDemo": "Watch Demo",
+    "videoSection": {
+      "title": "Digital Business Cards",
+      "subtitle": "Environmentally friendly and easy to update",
+      "tagline": "Make a lasting impression - instantly"
+    }
+  },
+  "stats": {
+    "activeUsers": "Active Users",
+    "cardsCreated": "Cards Created",
+    "connectionsMade": "Connections Made",
+    "uptime": "Uptime"
+  },
+  "preview": {
+    "contact": "Contact",
+    "share": "Share"
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything you need to network like a pro",
+    "subtitle": "Powerful features designed to make your networking more effective and professional.",
+    "lightningFast": {
+      "title": "Lightning Fast Creation",
+      "description": "Build professional business cards in under 2 minutes with our intuitive drag-and-drop builder."
+    },
+    "mobileFirst": {
+      "title": "Mobile-First Design",
+      "description": "Every card is optimized for mobile viewing with responsive layouts that look perfect on any device."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Track views, engagement, and contact saves with detailed analytics and insights."
+    },
+    "qrCodes": {
+      "title": "Smart QR Codes",
+      "description": "Generate dynamic QR codes that update automatically when you change your card details."
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-level encryption and privacy controls to keep your professional data secure."
+    },
+    "globalReach": {
+      "title": "Global Reach",
+      "description": "Share your card instantly worldwide with customizable links and social integrations."
+    }
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "Loved by professionals worldwide",
+    "subtitle": "See what our users are saying about their ULTRA TECH experience.",
+    "items": [
+      {
+        "quote": "ULTRA TECH transformed how I network. I've gained 300% more meaningful connections since switching to digital cards.",
+        "name": "Sarah Chen",
+        "title": "VP of Marketing, TechFlow"
+      },
+      {
+        "quote": "The analytics feature helped me understand my networking ROI. I've closed 40% more deals since using ULTRA TECH.",
+        "name": "Michael Rodriguez",
+        "title": "Sales Director, InnovateCorp"
+      },
+      {
+        "quote": "Creating professional cards in minutes instead of weeks has been a game-changer for our entire team.",
+        "name": "Emily Johnson",
+        "title": "Marketing Manager, StartupHub"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Simple, transparent pricing",
+    "subtitle": "Start free and upgrade when you're ready to unlock advanced features.",
+    "free": {
+      "name": "Free Plan",
+      "price": "$0 / month",
+      "description": "Ideal for getting started",
+      "features": [
+        "Single digital card",
+        "Basic ready",
+        "Share via link or QR code",
+        "Analytics (visits, views)",
+        "Limited control"
+      ],
+      "cta": "Start for Free"
+    },
+    "pro": {
+      "name": "Premium Plan",
+      "price": "$9 / month",
+      "badge": "Most Popular",
+      "description": "For professionals",
+      "features": [
+        "Up to 3 digital cards",
+        "Premium customizable",
+        "Custom-designed NFC card",
+        "Advanced analytics",
+        "Custom URL"
+      ],
+      "cta": "Join Now"
+    },
+    "business": {
+      "name": "LIFETIME Plan",
+      "price": "$80 – One-Time Payment",
+      "description": "One digital business card for life with no additional payments.",
+      "features": [
+        "One digital card for lifetime use",
+        "One physical NFC card",
+        "Full design customization",
+        "Card management dashboard",
+        "Advanced analytics",
+        "Integration with Google Workspace and Zapier",
+        "Priority technical support"
+      ],
+      "cta": "Get Started"
+    },
+    "enterprise": {
+      "name": "Enterprise Plan",
+      "price": "Custom Pricing",
+      "description": "Enterprise Customization",
+      "features": [
+        "Unlimited digital cards",
+        "Full white-label designs",
+        "Secure login (SSO/SAML)",
+        "Deep integration",
+        "Dedicated account support"
+      ],
+      "cta": "Contact Us for a Custom Quote"
+    }
+  },
+  "cta": {
+    "title": "Your identity, your style, your digital presence,",
+    "subtitle": "Join thousands of professionals who are already building stronger connections with ULTRA TECH.",
+    "startFree": "Start Building Free",
+    "scheduleDemo": "Schedule Demo",
+    "joinNow": "Join Now"
+  },
+  "sections": {
+    "customerReviews": "Customer Reviews",
+    "discoverHorizons": "[ Discover New Horizons ]",
+    "oneTapOneCard": "One Tap. One Card.",
+    "subscriptionRegulations": "[ Subscription & Regulations ]"
+  },
+  "counters": {
+    "happyActiveUser": "Happy active user",
+    "cardsCreated": "Cards created",
+    "connectionsMade": "Connections established"
+  },
+  "featuresData": {
+    "freeDesign": {
+      "title": "freeDesign",
+      "subtitle": "Enjoy an easy and creative design experience that lets you create a professional card that reflects your business identity — completely free."
+    },
+    "globalReach": {
+      "title": "Global Reach",
+      "subtitle": "Share your card instantly, anywhere in the world, using customizable links and smart integrations with social platforms."
+    },
+    "mobileFirstDesign": {
+      "title": "Mobile-First Design",
+      "subtitle": "Your card is carefully crafted to look stunning on all mobile devices, with a smooth and responsive browsing experience."
+    },
+    "smartQrCodes": {
+      "title": "Smart QR Codes",
+      "subtitle": "Dynamic QR codes that automatically update whenever you change your details — ensuring your clients always have your most up-to-date information."
+    }
+  },
+  "testimonialData": {
+    "fredWill": {
+      "name": "Fred Will",
+      "text": "It makes networking so much easier."
+    },
+    "faresSalim": {
+      "name": "Fares Salim",
+      "text": "I feel so happy every time I share my card."
+    },
+    "sarahJamil": {
+      "name": "Sarah Jamil",
+      "text": "Sharing my card feels modern and professional."
+    },
+    "tamimYounis": {
+      "name": "Tamim Younis",
+      "text": "It's amazing to update my info anytime I want."
+    },
+    "ibrahimPr": {
+      "name": "Ibrahim pr",
+      "text": "One tap, and they have all my info — perfect!"
+    },
+    "mayaChen": {
+      "name": "Maya Chen",
+      "text": "The design options are absolutely stunning."
+    }
+  }
+}

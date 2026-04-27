@@ -1,0 +1,447 @@
+{
+  "header": {
+    "searchPlaceholder": "ابحث عن البطاقات أو جهات الاتصال أو التحليلات...",
+    "notifications": "الإشعارات",
+    "markAllRead": "وضع علامة مقروء على الكل",
+    "noNotifications": "لا توجد إشعارات جديدة",
+    "viewAllNotifications": "عرض جميع الإشعارات",
+    "myProfile": "ملفي الشخصي",
+    "upgradePremium": "الترقية إلى بريميوم",
+    "signOut": "تسجيل الخروج"
+  },
+  "sidebar": {
+    "tagline": "بطاقات العمل الرقمية",
+    "adminPanel": "لوحة الإدارة",
+    "signOut": "تسجيل الخروج",
+    "menu": {
+      "dashboard": "لوحة التحكم",
+      "cardBuilder": "منشئ البطاقات",
+      "cards": "البطاقات",
+      "contacts": "جهات الاتصال",
+      "billing": "الفواتير",
+      "support": "الدعم",
+      "usersManagement": "إدارة المستخدمين",
+      "subscriptions": "الاشتراكات"
+    },
+    "subtitle": {
+      "dashboard": "نظرة عامة وإحصائيات",
+      "cardBuilder": "إنشاء وتحرير البطاقات",
+      "cards": "جميع بطاقاتك",
+      "contacts": "إدارة الاتصالات",
+      "billing": "الخطط والفواتير",
+      "support": "المساعدة والموارد",
+      "usersManagement": "إدارة جميع المستخدمين",
+      "subscriptions": "إدارة الاشتراكات"
+    }
+  },
+  "menu": {
+    "dashboard": "لوحة التحكم",
+    "cardBuilder": "منشئ البطاقات",
+    "myCards": "بطاقاتي",
+    "contacts": "جهات الاتصال",
+    "billing": "الفواتير",
+    "support": "الدعم",
+    "profile": "الملف الشخصي",
+    "admin": "لوحة الإدارة",
+    "users": "المستخدمون",
+    "subscriptions": "الاشتراكات"
+  },
+  "overview": {
+    "title": "نظرة عامة",
+    "totalCards": "إجمالي البطاقات",
+    "totalViews": "إجمالي المشاهدات",
+    "totalContacts": "إجمالي جهات الاتصال",
+    "activeCards": "البطاقات النشطة",
+    "shares": "المشاركات",
+    "welcomeBack": "مرحباً بعودتك، {name}",
+    "subtitle": "إليك ما يحدث اليوم مع بطاقات العمل الرقمية الخاصة بك.",
+    "cardsDelta": "+2 هذا الشهر",
+    "contactsDelta": "+8% عن الشهر الماضي",
+    "sharesDelta": "+23% عن الشهر الماضي"
+  },
+  "cards": {
+    "title": "بطاقاتي",
+    "subtitle": "تصفح وأدر بطاقاتك الرقمية",
+    "create": "إنشاء بطاقة جديدة",
+    "new": "بطاقة جديدة",
+    "export": "تصدير",
+    "all": "كل البطاقات",
+    "searchPlaceholder": "ابحث في البطاقات...",
+    "filters": "عوامل التصفية",
+    "loading": "جارٍ تحميل البطاقات...",
+    "published": "منشور",
+    "headers": {
+      "qrCode": "رمز QR",
+      "card": "البطاقة",
+      "type": "النوع",
+      "stats": "إحصائيات",
+      "published": "منشور",
+      "created": "تاريخ الإنشاء",
+      "actions": "إجراءات"
+    },
+    "edit": "تعديل البطاقة",
+    "delete": "حذف البطاقة",
+    "view": "عرض البطاقة",
+    "share": "مشاركة البطاقة",
+    "duplicate": "نسخ البطاقة",
+    "noCards": "لا توجد بطاقات",
+    "deleteConfirm": "هل أنت متأكد من أنك تريد حذف هذه البطاقة؟",
+    "deleteDialog": {
+      "title": "حذف البطاقة",
+      "body": "هل أنت متأكد من حذف هذه البطاقة؟ لا يمكن التراجع عن هذا الإجراء.",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    },
+    "deleteSuccess": "تم حذف البطاقة بنجاح",
+    "createSuccess": "تم إنشاء البطاقة بنجاح",
+    "updateSuccess": "تم تحديث البطاقة بنجاح",
+    "unpublished": "غير منشور",
+    "draft": "مسودة"
+  },
+  "contacts": {
+    "addDrawer": {
+      "title": "إضافة جهة اتصال جديدة",
+      "subtitle": "إنشاء جهة اتصال مع البريد الإلكتروني وأرقام الهواتف",
+      "images": "الصور",
+      "profileImage": "صورة الملف الشخصي",
+      "companyLogo": "شعار الشركة",
+      "upload": "رفع",
+      "change": "تغيير",
+      "remove": "إزالة",
+      "fullName": "الاسم الكامل",
+      "company": "الشركة (اختياري)",
+      "department": "القسم (اختياري)",
+      "active": "نشط",
+      "inactive": "غير نشط",
+      "associatedCard": "البطاقة المرتبطة (اختياري)",
+      "emails": "البريد الإلكتروني",
+      "addEmail": "إضافة بريد إلكتروني",
+      "email": "البريد الإلكتروني",
+      "label": "التسمية (اختياري)",
+      "phones": "الهواتف",
+      "addPhone": "إضافة هاتف",
+      "phone": "الهاتف",
+      "ext": "التحويلة (اختياري)",
+      "save": "حفظ جهة الاتصال",
+      "cancel": "إلغاء"
+    },
+    "title": "جهات الاتصال",
+    "pageTitle": "إدارة جهات الاتصال",
+    "pageSubtitle": "إدارة علاقاتك المهنية والعملاء المحتملين",
+    "add": "إضافة جهة اتصال",
+    "import": "استيراد",
+    "manage": "إدارة جهات الاتصال",
+    "total": "إجمالي جهات الاتصال",
+    "newThisWeek": "جديد هذا الأسبوع",
+    "active": "جهات اتصال نشطة",
+    "conversion": "معدل التحويل",
+    "deltas": {
+      "total": "+15%",
+      "newThisWeek": "+8%",
+      "active": "+12%",
+      "conversion": "+3%"
+    },
+    "recent": "جهات الاتصال الأخيرة",
+    "export": "تصدير جهات الاتصال",
+    "delete": "حذف جهة الاتصال",
+    "noContacts": "لا توجد جهات اتصال",
+    "deleteConfirm": "هل أنت متأكد من حذف جهة الاتصال هذه؟",
+    "table": {
+      "all": "كل جهات الاتصال",
+      "searchPlaceholder": "ابحث في جهات الاتصال...",
+      "filters": "عوامل التصفية",
+      "allSources": "كل المصادر",
+      "loading": "جارٍ تحميل جهات الاتصال...",
+      "headers": {
+        "contact": "جهة الاتصال",
+        "company": "الشركة",
+        "status": "الحالة",
+        "tags": "الوسوم",
+        "lastContact": "آخر تواصل",
+        "actions": "إجراءات"
+      },
+      "tagDefault": "جهة اتصال",
+      "na": "غير متوفر"
+    },
+    "deleteSuccess": "تم حذف جهة الاتصال بنجاح"
+  },
+  "billing": {
+    "title": "الفواتير والاشتراكات",
+    "subtitle": "إدارة الاشتراك وتفضيلات الفوترة",
+    "upgrade": "ترقية الخطة",
+    "invoices": "الفواتير",
+    "recentInvoices": "الفواتير الأخيرة",
+    "paymentMethod": "طريقة الدفع",
+    "billingHistory": "سجل الفواتير",
+    "badges": {
+      "mostPopular": "الأكثر شيوعًا"
+    },
+    "plans": {
+      "free": {
+        "name": "مجانية",
+        "price": "$0",
+        "per": "/شهري",
+        "desc": "مثالية للبدء",
+        "features": {
+          "cards": "3 بطاقات عمل",
+          "templates": "قوالب أساسية",
+          "qrcode": "إنشاء رمز QR",
+          "analytics": "تحليلات أساسية"
+        },
+        "button": "الخطة الحالية"
+      },
+      "pro": {
+        "name": "برو",
+        "price": "$9",
+        "per": "/شهري",
+        "desc": "للمحترفين في طور النمو",
+        "features": {
+          "unlimitedCards": "بطاقات عمل غير محدودة",
+          "premiumTemplates": "قوالب مميزة",
+          "advancedAnalytics": "تحليلات متقدمة",
+          "customBranding": "علامة تجارية مخصصة",
+          "teamCollaboration": "تعاون الفرق"
+        },
+        "button": "الترقية إلى برو"
+      },
+      "business": {
+        "name": "بيزنس",
+        "price": "$29",
+        "per": "/شهري",
+        "desc": "للشركات والفرق",
+        "features": {
+          "everythingInPro": "كل ما في برو",
+          "advancedTeam": "ميزات فرق متقدمة",
+          "apiAccess": "وصول إلى API",
+          "integrations": "تكاملات مخصصة",
+          "prioritySupport": "دعم ذو أولوية"
+        },
+        "button": "تواصل مع المبيعات"
+      }
+    },
+    "invoicesList": {
+      "title": "الفواتير الأخيرة",
+      "paid": "مدفوع"
+    },
+    "payment": {
+      "title": "طريقة الدفع",
+      "expires": "تنتهي في {date}",
+      "edit": "تعديل",
+      "add": "إضافة طريقة دفع"
+    }
+  },
+  "support": {
+    "title": "المساعدة والدعم",
+    "subtitle": "احصل على مساعدة واعثر على إجابات للأسئلة الشائعة",
+    "knowledgeBase": {
+      "title": "قاعدة المعرفة",
+      "articles": [
+        "كيف أنشئ أول بطاقة عمل؟",
+        "هل يمكنني تخصيص الألوان والخطوط؟",
+        "كيف أشارك بطاقة العمل الخاصة بي؟",
+        "ما هي التحليلات المتاحة؟",
+        "كيف أقوم بتصدير معلومات جهة الاتصال؟"
+      ]
+    },
+    "contact": {
+      "title": "تواصل مع الدعم",
+      "successTitle": "تم إرسال الرسالة بنجاح!",
+      "successBody": "لقد استلمنا طلب الدعم الخاص بك وسنعاود التواصل معك قريبًا.",
+      "subjectLabel": "الموضوع",
+      "subjectPlaceholder": "كيف يمكننا مساعدتك؟",
+      "messageLabel": "الرسالة",
+      "messagePlaceholder": "صف مشكلتك أو سؤالك...",
+      "send": "إرسال الرسالة",
+      "clear": "مسح",
+      "sendAnother": "إرسال رسالة أخرى"
+    },
+    "sendMessage": "إرسال الرسالة",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "submit": "إرسال الرسالة",
+    "success": "تم إرسال الرسالة بنجاح",
+    "error": "فشل إرسال الرسالة"
+  },
+  "profile": {
+    "title": "إعدادات الملف الشخصي",
+    "personalInfo": "المعلومات الشخصية",
+    "changePassword": "تغيير كلمة المرور",
+    "updateSuccess": "تم تحديث الملف الشخصي بنجاح",
+    "updateError": "فشل تحديث الملف الشخصي"
+  },
+  "account": {
+    "title": "الحساب",
+    "subtitle": "إدارة إعداداتك الشخصية",
+    "photoLabel": "صورة الحساب",
+    "nameLabel": "الاسم",
+    "namePlaceholder": "أدخل اسمك",
+    "emailLabel": "البريد الإلكتروني",
+    "emailReadonlyNote": "تغيير البريد الإلكتروني يتطلب دعمًا. يرجى التواصل مع الدعم لتحديث بريدك الإلكتروني.",
+    "saveChanges": "حفظ التغييرات",
+    "reset": "إعادة تعيين",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "dialog": {
+      "changePassword": "تغيير كلمة المرور",
+      "newPassword": "كلمة المرور الجديدة",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "cancel": "إلغاء",
+      "updatePassword": "تحديث كلمة المرور"
+    },
+    "toast": {
+      "updateSuccess": "تم تحديث الحساب بنجاح",
+      "updateError": "فشل تحديث الحساب",
+      "passwordSuccess": "تم تحديث كلمة المرور بنجاح",
+      "passwordError": "فشل تحديث كلمة المرور"
+    }
+  },
+  "activity": {
+    "title": "النشاطات الأخيرة",
+    "feedTitle": "سجل النشاط",
+    "feedSubtitle": "أحداث تفاعلاتك وتحديثات البطاقات"
+  },
+  "quick": {
+    "title": "إجراءات سريعة"
+  },
+  "builder": {
+    "proMode": "وضع برو",
+    "freeMode": "وضع مجاني",
+    "subscribeNow": "اشترك الآن",
+    "title": "منشئ البطاقات",
+    "subtitle": "خصص بطاقة العمل الرقمية الخاصة بك",
+    "saveAria": "حفظ",
+    "validation": {
+      "title": "حقول مطلوبة مفقودة",
+      "cardName": "• اسم البطاقة مطلوب",
+      "cardType": "• نوع البطاقة مطلوب",
+      "personalName": "• الاسم الشخصي مطلوب",
+      "phone": "• رقم الهاتف مطلوب"
+    },
+    "tabs": {
+      "cardDetails": "تفاصيل البطاقة",
+      "personalDetails": "التفاصيل الشخصية",
+      "buttons": "الأزرار",
+      "faqs": "الأسئلة الشائعة",
+      "gallery": "المعرض",
+      "reviews": "المراجعات"
+    },
+    "preview": {
+      "title": "معاينة مباشرة",
+      "mobile": "الهاتف",
+      "desktop": "سطح المكتب"
+    },
+    "forms": {
+      "cardDetails": {
+        "qrCodeLabel": "كيو أر الكرت"
+      },
+      "buttons": {
+        "empty": {
+          "title": "لا توجد أزرار بعد",
+          "subtitle": "أضف أزراراً تفاعلية إلى بطاقتك للروابط ومعلومات الاتصال والمزيد."
+        },
+        "defaultTitle": "زر {n}",
+        "defaultLink": "لا يوجد رابط",
+        "titleLabel": "عنوان الزر",
+        "titlePlaceholder": "مثل: بريد إلكتروني، موقع ويب، اتصال",
+        "iconLabel": "الأيقونة",
+        "iconSearchPlaceholder": "ابحث عن الأيقونات…",
+        "linkLabel": "الرابط/URL",
+        "linkPlaceholder": "https://example.com أو tel:+1234567890",
+        "colorLabel": "لون الزر",
+        "fontFamilyLabel": "نوع الخط",
+        "fontFamilies": {
+          "roboto": "Roboto (افتراضي)"
+        },
+        "fontSizeLabel": "حجم الخط",
+        "fontSizes": {
+          "xs": "10px (صغير جداً)",
+          "sm": "12px (صغير)",
+          "default": "14px (افتراضي)",
+          "md": "16px (متوسط)",
+          "lg": "18px (كبير)",
+          "xl": "20px (كبير جداً)",
+          "xxl": "22px (XXL)",
+          "xxxl": "24px (XXXL)"
+        },
+        "addNew": "إضافة زر جديد"
+      },
+      "faqs": {
+        "empty": {
+          "title": "لا توجد أسئلة شائعة بعد",
+          "subtitle": "أضف أسئلة شائعة لمساعدة الزوار على معرفة المزيد عنك."
+        },
+        "defaultQuestion": "سؤال {n}",
+        "questionLabel": "السؤال",
+        "questionPlaceholder": "ما السؤال الذي يُطرح غالباً؟",
+        "answerLabel": "الإجابة",
+        "answerPlaceholder": "قدّم إجابة واضحة ومفيدة...",
+        "bgColorLabel": "لون الخلفية",
+        "addNew": "إضافة سؤال جديد"
+      },
+      "gallery": {
+        "title": "إدارة المعرض",
+        "subtitle": "أضف ونظم الصور لمعرضك. حدد أبعاد الشبكة لكل صورة.",
+        "addNewTitle": "إضافة صورة جديدة",
+        "selectImageLabel": "اختر ملف الصورة",
+        "gridColumnsLabel": "أعمدة الشبكة",
+        "gridRowsLabel": "صفوف الشبكة",
+        "addImageButton": "إضافة صورة",
+        "currentGalleryTitle": "المعرض الحالي ({count} صور)",
+        "empty": {
+          "title": "لا توجد صور في المعرض بعد",
+          "subtitle": "أضف صورتك الأولى أعلاه"
+        },
+        "gridLabel": "الشبكة",
+        "column": "عمود",
+        "row": "صف",
+        "imageUrlLabel": "رابط أو مسار الصورة",
+        "columnsLabel": "الأعمدة",
+        "rowsLabel": "الصفوف",
+        "cancelButton": "إلغاء",
+        "saveButton": "حفظ",
+        "previewTitle": "معاينة المعرض",
+        "validation": {
+          "fileRequired": "ملف الصورة مطلوب",
+          "fileSize": "يجب أن يكون حجم الصورة أقل من 5 ميجابايت",
+          "fileType": "يُسمح فقط بصور JPEG و PNG و WebP",
+          "colsRange": "يجب أن تكون الأعمدة بين 1 و 4",
+          "rowsRange": "يجب أن تكون الصفوف بين 1 و 3"
+        }
+      },
+      "reviews": {
+        "empty": {
+          "title": "لا توجد مراجعات بعد",
+          "subtitle": "أضف مراجعات العملاء والشهادات لبناء الثقة والمصداقية."
+        },
+        "defaultCustomer": "عميل {n}",
+        "noReviewText": "لم يتم تقديم نص المراجعة",
+        "customerNameLabel": "اسم العميل",
+        "customerNamePlaceholder": "مثل: أحمد محمد، سارة ك.، إلخ.",
+        "ratingLabel": "التقييم",
+        "ratingText": "{rating} من 5 نجوم",
+        "reviewTextLabel": "نص المراجعة",
+        "reviewTextPlaceholder": "اكتب ما قاله العميل عن خدمتك...",
+        "addNew": "إضافة مراجعة جديدة"
+      },
+      "personalDetails": {
+        "coverLabel": "صورة الغلاف",
+        "profileLabel": "صورة الملف الشخصي",
+        "backgroundLabel": "صورة الخلفية (اختياري)",
+        "contactDetailsBackgroundLabel": "خلفية تفاصيل الاتصال (اختياري)",
+        "fullNameLabel": "الاسم الكامل",
+        "fullNamePlaceholder": "أدخل الاسم الكامل",
+        "phoneLabel": "الهاتف",
+        "phonePlaceholder": "أدخل رقم الهاتف",
+        "bioLabel": "السيرة الذاتية",
+        "bioPlaceholder": "اكتب نبذة قصيرة عن نفسك...",
+        "aboutLabel": "نبذة عني",
+        "aboutPlaceholder": "اخبر المزيد عن نفسك وخبراتك ومجالاتك...",
+        "conclusionLabel": "الخاتمة",
+        "conclusionPlaceholder": "اختم بدعوة لاتخاذ إجراء أو عبارة ختامية...",
+        "validation": {
+          "nameRequired": "الاسم الشخصي مطلوب",
+          "nameEmpty": "لا يمكن أن يكون الاسم الشخصي فارغًا"
+        }
+      }
+    }
+  }
+}

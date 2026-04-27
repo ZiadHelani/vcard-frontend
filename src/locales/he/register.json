@@ -1,0 +1,72 @@
+{
+  "backToHome": "חזרה לדף הבית",
+  "branding": {
+    "name": "אולטרא טק",
+    "tagline": "הצטרף לאלפי אנשי מקצוע"
+  },
+  "hero": {
+    "title": "התחל ליצור כרטיסי ביקור דיגיטליים",
+    "titleHighlight": "מדהימים",
+    "titleSuffix": "",
+    "subtitle": "בנה את הנוכחות המקצועית שלך עם בונה הכרטיסים האינטואיטיבי שלנו, ניתוח מתקדם ואפשרויות שיתוף חלקות."
+  },
+  "benefits": {
+    "freePlan": {
+      "title": "תוכנית חינמית לתמיד",
+      "description": "התחל עם 3 כרטיסי ביקור וניתוח בסיסי"
+    },
+    "proTrial": {
+      "title": "ניסיון Pro ל-30 יום",
+      "description": "גישה מלאה לתכונות פרימיום וכרטיסים בלתי מוגבלים"
+    },
+    "noCreditCard": {
+      "title": "לא נדרש כרטיס אשראי",
+      "description": "התחל מיד ללא כל תשלום"
+    }
+  },
+  "form": {
+    "title": "צור את החשבון שלך",
+    "subtitle": "התחל לבנות כרטיסי ביקור דיגיטליים מקצועיים היום",
+    "name": {
+      "label": "שם מלא",
+      "placeholder": "הזן את שמך המלא"
+    },
+    "email": {
+      "label": "אימייל",
+      "placeholder": "הזן את האימייל שלך"
+    },
+    "company": {
+      "label": "חברה",
+      "optional": "(אופציונלי)",
+      "placeholder": "הזן את שם החברה שלך"
+    },
+    "password": {
+      "label": "סיסמה",
+      "placeholder": "הזן את הסיסמה שלך"
+    },
+    "confirmPassword": {
+      "label": "אשר סיסמה",
+      "placeholder": "אשר את הסיסמה שלך"
+    },
+    "agreeToTerms": "אני מסכים ל",
+    "termsOfService": "תנאי השירות",
+    "and": "ו",
+    "privacyPolicy": "מדיניות הפרטיות",
+    "createAccount": "צור חשבון",
+    "orContinueWith": "או המשך עם",
+    "google": "גוגל",
+    "haveAccount": "כבר יש לך חשבון?",
+    "signIn": "התחבר"
+  },
+  "validation": {
+    "nameRequired": "שם הוא שדה חובה",
+    "nameMin": "השם חייב להכיל לפחות 2 תווים",
+    "emailRequired": "אימייל הוא שדה חובה",
+    "emailInvalid": "האימייל חייב להיות תקין",
+    "passwordRequired": "סיסמה היא שדה חובה",
+    "passwordMin": "הסיסמה חייבת להכיל לפחות 8 תווים",
+    "confirmPasswordRequired": "נא לאשר את הסיסמה שלך",
+    "passwordsNoMatch": "הסיסמאות אינן תואמות",
+    "termsRequired": "עליך להסכים לתנאים ולמדיניות הפרטיות"
+  }
+}

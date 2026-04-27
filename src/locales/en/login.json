@@ -1,0 +1,48 @@
+{
+  "backToHome": "Back to home",
+  "branding": {
+    "name": "ULTRA TECH",
+    "tagline": "Professional Digital Business Cards"
+  },
+  "hero": {
+    "title": "Welcome back to the future of",
+    "titleHighlight": "networking",
+    "subtitle": "Continue building amazing connections with your professional digital business cards. Your network is waiting."
+  },
+  "features": {
+    "smartDesign": {
+      "title": "Smart Design",
+      "description": "AI-powered layouts that adapt to your content"
+    },
+    "instantSharing": {
+      "title": "Instant Sharing",
+      "description": "QR codes, links, and direct contact saves"
+    }
+  },
+  "form": {
+    "title": "Welcome back",
+    "subtitle": "Sign in to your account to continue building amazing digital business cards",
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "rememberMe": "Remember me",
+    "forgetPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "orContinueWith": "OR CONTINUE WITH",
+    "google": "Google",
+    "noAccount": "Don't have an account?",
+    "signUpFree": "Sign up for free"
+  },
+  "validation": {
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "passwordRequired": "Password is required",
+    "passwordMin": "Password must be at least 6 characters"
+  }
+}

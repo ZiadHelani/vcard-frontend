@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "Contact Us",
+    "title": "Get in Touch with Our Team",
+    "subtitle": "Do you have questions about UltraTech? Or need help getting started? Our team is here to support you and help you succeed in the world of digital business cards and professional networking.",
+    "startLiveChat": "Start Live Chat",
+    "callUsNow": "Call Us Now",
+    "description": "📩 Send us a message now or use the contact form for a quick response.",
+    "stats": {
+      "emailResponse": "Email Response",
+      "liveChatSupport": "24/7 Chat Support",
+      "satisfactionRate": "Satisfaction Rate",
+      "satisfactionValue": "99%",
+      "countriesServed": "Countries Served",
+      "countriesValue": "10"
+    }
+  },
+  "methods": {
+    "badge": "Contact Methods",
+    "title": "Multiple Ways to Reach Us",
+    "subtitle": "Choose the contact method that works best for you. We're here to help!",
+    "items": [
+      {
+        "title": "Email",
+        "value": "support@ultratech.co.il",
+        "description": "Send us an email anytime"
+      },
+      {
+        "title": "Call Us - WhatsApp",
+        "value": "+972 50-394-1341",
+        "description": "Available via WhatsApp"
+      },
+      {
+        "title": "Visit Us",
+        "value": "Taibeh City",
+        "description": "Industrial Area"
+      }
+    ]
+  },
+  "form": {
+    "badge": "Send Message",
+    "title": "Drop Us a Line",
+    "subtitle": "Fill out the form below and we'll get back to you within 24 hours.",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company (Optional)",
+      "phone": "Phone Number (Optional)",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "nameMin": "Name must be at least 2 characters",
+      "emailRequired": "Email is required",
+      "emailValid": "Email must be valid",
+      "subjectRequired": "Subject is required",
+      "subjectMin": "Subject must be at least 5 characters",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must be at least 10 characters"
+    },
+    "buttons": {
+      "send": "Send Message",
+      "sending": "Sending...",
+      "clear": "Clear Form"
+    },
+    "success": {
+      "title": "Message Sent Successfully!",
+      "message": "Thank you for contacting us. We'll get back to you within 24 hours."
+    },
+    "error": {
+      "general": "Failed to send message. Please try again."
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions about UltraTech – Digital Business Cards",
+    "subtitle": "Quick answers to common questions about UltraTech.",
+    "items": [
+      {
+        "question": "How fast can I create my first digital business card?",
+        "answer": "You can create your first digital card in just a few minutes, with no prior design experience required."
+      },
+      {
+        "question": "Can I customize the design of my business card?",
+        "answer": "Yes! You can choose colors, fonts, and add your logo, as well as any information you want to make your card unique and reflective of your professional identity."
+      },
+      {
+        "question": "How can I share my digital business card?",
+        "answer": "You can share your card via: QR code, direct link, email, social media, NFC technology. No app is required for recipients to view your card—it works on any device with a web browser."
+      },
+      {
+        "question": "Is my data safe with UltraTech?",
+        "answer": "We prioritize your privacy and use the latest encryption technologies to ensure your personal and professional information is secure."
+      },
+      {
+        "question": "Can I track who views my card?",
+        "answer": "Yes, UltraTech provides tools to track the number of times your card is viewed, helping you understand its reach and impact."
+      },
+      {
+        "question": "Can I update my card after creating it?",
+        "answer": "Absolutely! You can edit any information or design at any time, and changes will immediately reflect on the card you've already shared."
+      },
+      {
+        "question": "Can I add multimedia to my card?",
+        "answer": "Yes! You can include images, videos, links to your websites, or PDF files to make your card more engaging."
+      },
+      {
+        "question": "Is UltraTech suitable for all types of businesses?",
+        "answer": "Yes! Whether you are a freelancer or a large company, digital business cards are suitable for all industries and help expand your professional network easily."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Don't wait! Join thousands of professionals who are already transforming their networking with ULTRA TECH.",
+    "startFree": "Start Building Free",
+    "scheduleDemo": "Schedule Demo"
+  }
+}

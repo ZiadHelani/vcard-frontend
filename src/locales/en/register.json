@@ -1,0 +1,72 @@
+{
+  "backToHome": "Back to home",
+  "branding": {
+    "name": "ULTRA TECH",
+    "tagline": "Join thousands of professionals"
+  },
+  "hero": {
+    "title": "Start creating",
+    "titleHighlight": "amazing",
+    "titleSuffix": "digital business cards",
+    "subtitle": "Build your professional presence with our intuitive card builder, advanced analytics, and seamless sharing options."
+  },
+  "benefits": {
+    "freePlan": {
+      "title": "Free Forever Plan",
+      "description": "Start with 3 business cards and basic analytics"
+    },
+    "proTrial": {
+      "title": "30-Day Pro Trial",
+      "description": "Full access to premium features and unlimited cards"
+    },
+    "noCreditCard": {
+      "title": "No Credit Card Required",
+      "description": "Get started immediately without any payment"
+    }
+  },
+  "form": {
+    "title": "Create your account",
+    "subtitle": "Start building professional digital business cards today",
+    "name": {
+      "label": "Full Name",
+      "placeholder": "Enter your full name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "company": {
+      "label": "Company",
+      "optional": "(Optional)",
+      "placeholder": "Enter your company name"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "confirmPassword": {
+      "label": "Confirm Password",
+      "placeholder": "Confirm your password"
+    },
+    "agreeToTerms": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "createAccount": "Create Account",
+    "orContinueWith": "OR CONTINUE WITH",
+    "google": "Google",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign in"
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "nameMin": "Name must be at least 2 characters",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email must be valid",
+    "passwordRequired": "Password is required",
+    "passwordMin": "Password must be at least 8 characters",
+    "confirmPasswordRequired": "Please confirm your password",
+    "passwordsNoMatch": "Passwords do not match",
+    "termsRequired": "You must agree to the terms and privacy policy"
+  }
+}

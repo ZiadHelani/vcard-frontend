@@ -1,0 +1,36 @@
+/* Smooth scroll (respect reduced motion) */
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+}
+
+/* Theme-aware tokens with fallback to the exact rgb you asked for */
+:root{
+    --sb-thumb: rgb(59, 130, 246);
+    --sb-thumb-hover: rgb(37, 99, 235);
+    --sb-track: transparent;
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--sb-thumb) var(--sb-track);
+}
+
+/* WebKit browsers (Chrome, Edge, Safari desktop) */
+*::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+*::-webkit-scrollbar-track {
+    background: var(--sb-track);
+}
+*::-webkit-scrollbar-thumb {
+    background-color: var(--sb-thumb);
+    border-radius: 999px;
+    border: 2px solid transparent;      /* gives that thin pill look */
+    background-clip: content-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+    background-color: var(--sb-thumb-hover);
+}

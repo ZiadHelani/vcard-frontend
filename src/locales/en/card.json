@@ -1,0 +1,94 @@
+{
+  "builder": {
+    "title": "Card Builder",
+    "personalDetails": "Personal Details",
+    "cardDetails": "Card Details",
+    "socialLinks": "Social Links",
+    "contactInfo": "Contact Information",
+    "gallery": "Gallery",
+    "faqs": "FAQs",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "businessHours": "Business Hours",
+    "save": "Save Card",
+    "preview": "Preview",
+    "publish": "Publish",
+    "draft": "Save as Draft"
+  },
+  "fields": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "fullName": "Full Name",
+    "jobTitle": "Job Title",
+    "company": "Company",
+    "bio": "Bio",
+    "about": "About",
+    "conclusion": "Conclusion",
+    "email": "Email",
+    "phone": "Phone Number",
+    "website": "Website",
+    "address": "Address",
+    "coverImage": "Cover Image",
+    "profileImage": "Profile Image",
+    "backgroundImage": "Background Image",
+    "backgroundColor": "Background Color",
+    "textColor": "Text Color",
+    "buttonColor": "Button Color",
+    "logo": "Logo",
+    "theme": "Theme"
+  },
+  "social": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "github": "GitHub",
+    "behance": "Behance",
+    "dribbble": "Dribbble",
+    "pinterest": "Pinterest"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "addImage": "Add Image",
+    "removeImage": "Remove Image",
+    "caption": "Caption",
+    "noImages": "No images added"
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "addFaq": "Add FAQ",
+    "question": "Question",
+    "answer": "Answer",
+    "noFaqs": "No FAQs added"
+  },
+  "services": {
+    "title": "Services",
+    "addService": "Add Service",
+    "name": "Service Name",
+    "description": "Description",
+    "price": "Price",
+    "noServices": "No services added"
+  },
+  "preview": {
+    "title": "Card Preview",
+    "mobile": "Mobile View",
+    "desktop": "Desktop View",
+    "share": "Share Card",
+    "saveContact": "Save to Contacts",
+    "downloadVCard": "Download vCard"
+  },
+  "messages": {
+    "saveSuccess": "Card saved successfully",
+    "saveError": "Failed to save card",
+    "publishSuccess": "Card published successfully",
+    "publishError": "Failed to publish card",
+    "deleteSuccess": "Card deleted successfully",
+    "deleteError": "Failed to delete card",
+    "fieldRequired": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidPhone": "Invalid phone number",
+    "invalidUrl": "Invalid URL"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "required": "{field} is required",
+  "email": "Please enter a valid email address",
+  "min": "{field} must be at least {min} characters",
+  "max": "{field} must not exceed {max} characters",
+  "minValue": "{field} must be at least {min}",
+  "maxValue": "{field} must not exceed {max}",
+  "numeric": "{field} must be a number",
+  "alpha": "{field} must contain only letters",
+  "alphaNum": "{field} must contain only letters and numbers",
+  "url": "Please enter a valid URL",
+  "match": "{field} does not match",
+  "unique": "{field} already exists",
+  "invalid": "Invalid {field}",
+  "passwordMismatch": "Passwords do not match",
+  "passwordStrength": "Password must contain at least 8 characters, one uppercase, one lowercase, and one number"
+}

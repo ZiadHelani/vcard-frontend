@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "badge": "About ULTRA TECH",
+    "title": "Revolutionizing Professional Networking",
+    "subtitle": "We're on a mission to transform how professionals connect, share, and grow their networks in the digital age. Founded by networking experts, built for the future of business relationships.",
+    "joinMission": "Join Our Mission",
+    "contactUs": "Contact Us",
+    "stats": {
+      "yearsInnovation": "Years of Innovation",
+      "happyUsers": "Happy Users",
+      "cardsCreated": "Cards Created",
+      "countriesServed": "Countries Served"
+    }
+  },
+  "story": {
+    "badge": "About Us",
+    "title": "From Vision to Reality",
+    "subtitle": "Ultra Technologic was born out of frustration with outdated networking methods. In a world where everything is becoming digital and faster — traditional paper business cards remained stuck in the past: wasteful, easy to lose, and offering little real value.",
+    "paragraph1": "In 2020, our founder realized it was time for a change. While technology had transformed every aspect of business, professional networking hadn’t evolved. That’s when the idea for Ultra Technologic was born — an innovative platform for creating smart, digital business cards.",
+    "paragraph2": "Imagine a world where you can design a beautiful digital business card in minutes, share it instantly anywhere, and gain real insights into your networking activity.",
+    "paragraph3": "Today, Ultra Technologic empowers thousands of professionals across the globe to connect smarter.",
+    "paragraph4": "Our journey has only just begun. We’re committed to constant innovation and to building the tools that will shape the future of professional networking.",
+    "paragraphs": [
+      "In 2020, our founder realized it was time for a change. While technology had transformed every aspect of business, professional networking hadn’t evolved. That’s when the idea for Ultra Technologic was born — an innovative platform for creating smart, digital business cards.",
+      "Imagine a world where you can design a beautiful digital business card in minutes, share it instantly anywhere, and gain real insights into your networking activity.",
+      "Today, Ultra Technologic empowers thousands of professionals across the globe to connect smarter.",
+      "Our journey has only just begun. We’re committed to constant innovation and to building the tools that will shape the future of professional networking."
+    ]
+  },
+  "values": {
+    "badge": "Our Values",
+    "title": "What Drives Us Forward",
+    "subtitle": "Our core values guide every decision we make and every feature we create. They are the foundation of Ultra Technologic and the driving force behind our growth.",
+    "items": [
+      {
+        "title": "Innovation First",
+        "description": "We constantly push boundaries to develop cutting-edge solutions that transform the way professionals connect, collaborate, and grow."
+      },
+      {
+        "title": "User-Centered Design",
+        "description": "Every feature begins with a deep understanding of our users’ needs, leading to simple, intuitive, and seamless experiences."
+      },
+      {
+        "title": "Privacy & Security",
+        "description": "Your trust is our top priority. We protect your data with enterprise-level security and maintain complete transparency in our privacy practices."
+      },
+      {
+        "title": "Global Impact",
+        "description": "We believe in the power of genuine connections. Our goal is to empower professionals worldwide to build meaningful relationships and unlock new opportunities."
+      }
+    ]
+  },
+  "team": {
+    "badge": "Our Team",
+    "title": "Meet the Minds Behind Ultra Technologic",
+    "subtitle": "Behind every line of code, design, and digital experience stands a passionate, diverse team. Our experts in technology, design, and business bring decades of combined experience, creativity, and innovation — all with one shared mission: to make professional networking simpler, smarter, and more impactful.",
+    "description": "We believe in collaboration, continuous learning, and building a culture that empowers people to do what they love — and to change the way the world connects.",
+    "cta": {
+      "title": "Join Our Journey",
+      "subtitle": "If you’re passionate about innovation, design, and creating real digital change — we’d love to have you on board.",
+      "label": "Join Us →"
+    },
+    "members": [
+      {
+        "name": "Haiya Jabara",
+        "title": "Founder & CEO",
+        "bio": "Design and innovation expert, the visionary driving Ultra Technologic's digital revolution.",
+        "image": "/team/team-4.jpg"
+      },
+      {
+        "name": "Ahmad Abd Al-Qader",
+        "title": "Electrical Engineer",
+        "bio": "Expert in advanced platform development, bridging technology and design.",
+        "image": "/team/team-3.jpg"
+      },
+      {
+        "name": "Abdallah Fares",
+        "title": "Head of Marketing & Design",
+        "bio": "Leads marketing strategies and creative direction, responsible for branding, UX, and graphic design across the platform.",
+        "image": "/team/team-2.jpg"
+      },
+      {
+        "name": "Hanin Rafia",
+        "title": "Product Manager",
+        "bio": "Responsible for developing innovative solutions, designing user experiences, and continuously improving the product based on client needs.",
+        "image": "/team/team-1.jpg"
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Our Journey",
+    "title": "From One Woman’s Vision to a Digital Revolution",
+    "subtitle": "It all began with a simple idea: to upgrade the way we present ourselves to the world.",
+    "description": "Our founder, Haya Jabara, an expert designer and owner of a design and media studio, noticed that her clients were still using paper business cards—outdated, easily damaged, and quickly lost. She decided to change that.",
+    "milestones": [
+      {
+        "year": "2020",
+        "title": "The Spark of an Idea",
+        "description": "While working as a designer, Haiya recognized a real need for a modern networking tool. She created the first prototype of a digital business card — smart, stylish, easy to share, and unforgettable."
+      },
+      {
+        "year": "2021",
+        "title": "Platform Launch",
+        "description": "After a year of testing and development, Ultra Technologic was officially launched — a cutting-edge platform for creating and sharing personalized digital business cards. The response from professionals and businesses was overwhelmingly positive."
+      },
+      {
+        "year": "2022",
+        "title": "A New Generation of Connectivity",
+        "description": "Haiya expanded her vision with the development of NFC Smart Cards — elegant, credit-card-style business cards that connect directly to a user’s digital profile with a single tap. Each card was fully customizable, merging technology and design."
+      },
+      {
+        "year": "2023",
+        "title": "Connected Design",
+        "description": "The innovation continued with the introduction of custom NFC chips for smartphones, designed to match each user’s brand identity. Now anyone could share their digital profile simply by touch."
+      },
+      {
+        "year": "2024",
+        "title": "Growth and Expansion",
+        "description": "Thousands of clients across the country and around the world are now using Ultra Technologic’s digital cards and NFC products. And we’re continuing to innovate — developing new technologies that unite design, technology, and professional networking."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to join our mission?",
+    "subtitle": "Be part of the networking revolution. Whether you're a professional looking to upgrade your networking game or a talented individual wanting to join our team.",
+    "startFree": "Start Building Free",
+    "viewCareers": "View Careers"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "header": {
+    "tagline": "Digital Business Cards",
+    "dashboard": "Dashboard",
+    "signIn": "Sign In",
+    "getStarted": "Get Started Free",
+    "language": "Language",
+    "ultra": "Ultra Technology",
+    "nav": {
+      "cards": "Cards",
+      "about": "About",
+      "contact": "Contact",
+      "terms": "Terms of Use",
+      "features": "Features",
+      "pricing": "Pricing",
+      "reviews": "Reviews"
+    }
+  },
+  "footer": {
+    "brandName": "Ultra Tech",
+    "description": "A modern way to connect with clients and partners.",
+    "descriptionLine2": "Your identity, your style, your digital presence.",
+    "quick": {
+      "title": "Quick Links",
+      "about": "About",
+      "contact": "Contact",
+      "cards": "Cards",
+      "privacy": "Privacy & Policy",
+      "terms": "Terms of Use"
+    },
+    "features": {
+      "title": "Features",
+      "smart": "Smart",
+      "custom": "Custom",
+      "analytics": "Analytics"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "about": {
+      "title": "About",
+      "story": "Story",
+      "team": "Team",
+      "privacy": "Privacy"
+    },
+    "copyright": "© {year} Ultra Tech. All rights reserved."
+  }
+}

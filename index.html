@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/fav/logo.webp" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ULTRA TECH | Professional Digital Business Cards</title>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script>
+      // Set direction immediately from localStorage before Vue loads
+      ;(function () {
+        const savedLocale = localStorage.getItem('user-locale')
+        const localeConfigs = {
+          en: { dir: 'ltr', lang: 'en' },
+          ar: { dir: 'rtl', lang: 'ar' },
+          he: { dir: 'rtl', lang: 'he' },
+        }
+
+        if (savedLocale && localeConfigs[savedLocale]) {
+          const config = localeConfigs[savedLocale]
+          document.documentElement.setAttribute('dir', config.dir)
+          document.documentElement.setAttribute('lang', config.lang)
+          document.documentElement.classList.remove('rtl', 'ltr')
+          document.documentElement.classList.add(config.dir)
+        }
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
